@@ -1,0 +1,29 @@
+{
+  "name": "es6-samples-babel-gulp",
+  "version": "1.0.0",
+  "description": "Sample to convert es6 code to es5 using babel and gulp",
+  "main": "",
+  "scripts": {
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VJag/es6-samples-babel-gulp.git"
+  },
+  "keywords": [
+    "es6",
+    "to",
+    "es5",
+    "babel"
+  ],
+  "author": "'Jagannadh <'jagannadh81@gmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VJag/es6-samples-babel-gulp/issues"
+  },
+  "homepage": "https://github.com/VJag/es6-samples-babel-gulp#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "6.14.0",
+    "gulp": "3.9.1",
+    "gulp-babel": "6.1.2"
+  }
+}
